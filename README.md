@@ -27,3 +27,18 @@ BeasiswaKita represents the future of scholarship management - a platform where 
 The platform demonstrates expertise in full-stack development, user experience design, and educational technology while showcasing the ability to create scalable, secure, and impactful digital solutions.
 
 <h2>📸 Screenshots</h2>
+
+<b>User</b>
+
+![Screenshot 1](image/ss1.png)
+![Screenshot 1](image/ss2.png)
+![Screenshot 1](image/ss3.png)
+![Screenshot 1](image/ss4.png)
+![Screenshot 1](image/ss5.png)
+
+
+<b>Admin</b>
+
+![Screenshot 1](image/ss1a.png)
+![Screenshot 1](image/ss2a.png)
+![Screenshot 1](image/ss3a.png)
